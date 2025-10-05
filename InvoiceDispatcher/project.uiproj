@@ -1,0 +1,6 @@
+{
+  "Name": "InvoiceDispatcher",
+  "ProjectType": "Process",
+  "Description": "Dispatcher",
+  "MainFile": "Main.xaml"
+}
